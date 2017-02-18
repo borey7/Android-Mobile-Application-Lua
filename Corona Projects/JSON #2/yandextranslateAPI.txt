@@ -1,0 +1,5 @@
+api key = trnsl.1.1.20160927T113237Z.f287a7e1869b8e4d.b13690fd5eaba0612cc507026153cf3971a3b454
+
+https://translate.yandex.net/api/v1.5/tr.json/translate?
+key=trnsl.1.1.20160927T113237Z.f287a7e1869b8e4d.b13690fd5eaba0612cc507026153cf3971a3b454
+&text=hello&lang=en-th
